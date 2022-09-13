@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+  }
+  div.header {
+      height: 480px;
+      width: 100%;
+      background: linear-gradient(to bottom, #ffffff 0%, #009efd 100%);
+  }
+  .sawarabi { font-family: "Sawarabi Mincho"; }
+  a.table {
+    text-decoration: none;
+    color: aliceblue;
+  } 
+  .link {
+      color: black;
+  }
+  .link:hover {
+      color: rgb(106, 106, 106);
+  }
+  div.maintext {
+      width: 100%;
+      border-width: 40px;
+      border-style:groove;
+      border-color: rgb(134, 134, 134);
+      background-color: rgb(60, 60, 60);
+      color: azure;
+  }
+  div.table {
+      border-width: 10px;
+      border-style:groove;
+      border-color: rgb(134, 134, 134);
+      background-color: rgb(60, 60, 60);
+      color: azure;
+  }
+  maintext {
+      font-family: "Sawarabi Mincho";
+      font-size: 32px;
+      position: relative;
+      left: 30px;
+      top: 30px;
+  }
